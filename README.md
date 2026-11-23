@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository is archived.** `proto` now lives in
+> [speechmux/speechmux](https://github.com/speechmux/speechmux/tree/main/proto), with its
+> full history. Open issues and pull requests there.
+
 # speechmux/proto
 
 Single source of truth for all Protocol Buffer definitions. Contains `.proto` files and generated Go/Python code for distribution.
